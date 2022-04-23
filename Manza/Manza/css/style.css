@@ -147,7 +147,7 @@ body {
 .columns__row {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 0px -8px;
+	margin: 0px 0px -8px 10px;
 }
 
 .columns__column {
